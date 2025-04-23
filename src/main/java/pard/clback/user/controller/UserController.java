@@ -2,10 +2,8 @@ package pard.clback.user.controller;
 
 import io.swagger.v3.oas.annotations.Operation;
 import lombok.RequiredArgsConstructor;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import pard.clback.user.dto.UserRequestDto;
-import pard.clback.user.dto.UserResponseDto;
 import pard.clback.user.entity.User;
 import pard.clback.user.service.UserService;
 
