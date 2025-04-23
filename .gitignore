@@ -38,6 +38,7 @@ out/
 
 *.properties
 
-config/
+### config/
 
+application.yaml
 application.properties
